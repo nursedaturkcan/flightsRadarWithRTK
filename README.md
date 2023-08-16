@@ -1,4 +1,4 @@
-
+# Flights Radar With ReduxToolkit
 
 This project is a web application that displays flight data on a map and allows users to view flight details. The application is developed using React and Redux libraries. 
 
@@ -94,4 +94,4 @@ Sağ Üst Boylam: 44.816771
 -Header.jsx de store'daki verileri kullanmak.
 -MapView.jsx de store'daki verileri kullanmak.
 -ListView.jsx de store'daki verileri kullanmak# flightsRadarWithRTK
-# flightsRadarWithRTK
+
